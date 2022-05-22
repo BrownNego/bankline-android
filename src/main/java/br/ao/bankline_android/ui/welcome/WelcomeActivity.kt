@@ -1,9 +1,8 @@
 package br.ao.bankline_android.ui.welcome
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import br.ao.bankline_android.R
+import androidx.appcompat.app.AppCompatActivity
 import br.ao.bankline_android.databinding.ActivityWelcomeBinding
 import br.ao.bankline_android.domain.Correntista
 import br.ao.bankline_android.ui.statement.BankStatementActivity
